@@ -3,7 +3,9 @@
 </div>
 
 # 💫 About Me:
-### Hi there, I'm Soumyajit Das! <br><br>I'm a Computer Science student from Kolkata, passionate about building in the cloud and writing clean, efficient code. I love exploring new technologies, solving real-world problems with software, and diving deep into cloud infrastructure and backend systems.
+### Hi there, I'm Soumyajit Das!
+
+#### I'm a Computer Science student from Kolkata, passionate about building in the cloud and writing clean, efficient code. I love exploring new technologies, solving real-world problems with software, and diving deep into cloud infrastructure and backend systems.
 
 
 ## 🌐 Socials:
