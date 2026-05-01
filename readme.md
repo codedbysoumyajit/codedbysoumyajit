@@ -93,7 +93,7 @@ A **zero-knowledge, self-hostable password manager** focused on complete user pr
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=codedbysoumyajit\&theme=tokyonight\&show_icons=true)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=codedbysoumyajit\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codedbysoumyajit&layout=compact&theme=tokyonight" width="350" />
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codedbysoumyajit&theme=tokyonight" />
 </p>
