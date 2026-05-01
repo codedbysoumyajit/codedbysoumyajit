@@ -1,21 +1,124 @@
+# 👨‍💻 Soumyajit Das
 
-# 💫 About Me:
-💻 I’m currently working on  <br>Building scalable web apps & exploring data-driven systems  <br><br>🤝 I’m looking to collaborate on  <br>Open-source projects in Data Science, DevOps & Backend  <br><br>🆘 I’m looking for help with  <br>Advanced Machine Learning & Cloud Architecture  <br><br>🌱 I’m currently learning  <br>Data Analysis, ML, CI/CD pipelines & Cloud (AWS/GCP)  <br><br>💬 Ask me about  <br>Python, JavaScript, Go, Linux & Web Development  <br><br>⚡ Fun fact  <br>I enjoy turning complex problems into simple, scalable solutions 🚀
+### Aspiring Data Scientist | DevOps Engineer | Backend Developer
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_soumyajit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codedbysoumyajit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CoderSoumyajit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codedbysoumyajit@proton.me) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=codedbysoumyajit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=codedbysoumyajit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codedbysoumyajit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=codedbysoumyajit\&color=blue\&style=flat)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+💡 Building **scalable systems**, **data-driven applications**, and **automation pipelines**
+
+* 🔭 Working on: Scalable web apps & backend systems
+* 🌱 Learning: Machine Learning, Cloud (AWS/GCP), CI/CD
+* 🤝 Open to: Open Source, Internships, Collaborations
+* 💬 Ask me about: Python, Go, JavaScript, Linux
+* ⚡ Focus: *Automation • Optimization • Scalability*
+
+---
+
+## 🏆 Certifications & Badges
+
+[![Credly](https://img.shields.io/badge/Credly-View%20Profile-orange?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/codedbysoumyajit)
+
+[![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-blue?style=flat\&logo=ibm\&logoColor=white)](https://www.credly.com/badges/17f94fe9-0245-46b3-bc20-faaea8aa1bbe/public_url)
+[![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=flat\&logo=cisco\&logoColor=white)](https://www.credly.com/badges/fa1bb045-90ba-4fcb-adf4-16140ed7cc8d/public_url)
+[![Introduction to Linux](https://img.shields.io/badge/Linux%20Foundation-Introduction%20to%20Linux-black?style=flat\&logo=linuxfoundation\&logoColor=white)](https://www.credly.com/badges/2e2fa9b9-4dd0-4aab-9263-7ed362f2bd19/public_url)
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat\&logo=gnu-bash\&logoColor=white)
+
+### ⚙️ Backend & Web
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat\&logo=next.js\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat\&logo=amazon-aws\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat\&logo=github-actions\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
+
+### 📊 Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat\&logo=plotly\&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat\&logo=mongodb\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 Phoenix XShare
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?style=flat\&logo=github)](https://github.com/codedbysoumyajit/Phoenix-XShare)
+![Tech](https://img.shields.io/badge/Tech-Node.js%20%7C%20EJS%20%7C%20MongoDB-blue)
+
+Secure, open-source, and **self-hostable file-sharing platform** built for privacy and performance.
+✔️ Private upload server with enhanced security
+✔️ Modern UI with optimized file handling
+✔️ Designed for scalable and controlled deployments
+
+---
+
+### 🔑 ZeroK Vault
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?style=flat\&logo=github)](https://github.com/codedbysoumyajit/zerok-vault)
+![Tech](https://img.shields.io/badge/Tech-Go%20%7C%20MongoDB%20%7C%20Vanilla%20JS-blue)
+
+A **zero-knowledge, self-hostable password manager** focused on complete user privacy.
+✔️ Server acts as blind storage (no access to secrets)
+✔️ End-to-end encryption ensures data ownership
+✔️ Lightweight and privacy-first architecture
+
+---
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.shion.dev/api?username=codedbysoumyajit\&theme=tokyonight\&show_icons=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=codedbysoumyajit\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codedbysoumyajit&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/codedbysoumyajit)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:codedbysoumyajit@proton.me)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge\&logo=x)](https://x.com/CoderSoumyajit)
+
+---
+
+## 🎯 Career Focus
+
+* Data Science & Machine Learning
+* Backend Engineering
+* DevOps & Cloud Infrastructure
+
+---
+
+## 🧩 Philosophy
+
+> “Great systems aren’t just built — they’re optimized, automated, and scaled.”
+
+---
