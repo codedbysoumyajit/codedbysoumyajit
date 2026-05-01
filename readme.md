@@ -46,7 +46,6 @@
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat\&logo=amazon-aws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat\&logo=github-actions\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
