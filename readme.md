@@ -22,7 +22,8 @@
 
 [![Credly](https://img.shields.io/badge/Credly-View%20Profile-orange?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/codedbysoumyajit)
 
-[![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-blue?style=flat\&logo=ibm\&logoColor=white)](https://www.credly.com/badges/17f94fe9-0245-46b3-bc20-faaea8aa1bbe/public_url)
+[![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-green?style=flat\&logo=ibm\&logoColor=white)](https://www.credly.com/badges/17f94fe9-0245-46b3-bc20-faaea8aa1bbe/public_url)
+[![Data Analysis Using Python](https://img.shields.io/badge/IBM-Data%20Analysis%20With%20Python-red?style=flat\&logo=ibm\&logoColor=white)](https://www.credly.com/badges/d7e47c75-2435-421c-8b14-aa369493fba2/public_url)
 [![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=flat\&logo=cisco\&logoColor=white)](https://www.credly.com/badges/fa1bb045-90ba-4fcb-adf4-16140ed7cc8d/public_url)
 [![Introduction to Linux](https://img.shields.io/badge/Linux%20Foundation-Introduction%20to%20Linux-black?style=flat\&logo=linuxfoundation\&logoColor=white)](https://www.credly.com/badges/2e2fa9b9-4dd0-4aab-9263-7ed362f2bd19/public_url)
 
