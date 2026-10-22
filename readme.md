@@ -77,9 +77,9 @@ I build web applications, backend systems, and developer tools. Beyond writing c
   </a>
 </p>
 
-### 🔐 Phoenix XShare
+### 🔐 Phoenix Drive
 
-A self-hostable file-sharing platform built around privacy, control, and a straightforward user experience.
+a secure, self-hosted cloud storage and file sharing workspace.
 
 - Private file uploads with optional encryption
 - MongoDB-backed application functionality
