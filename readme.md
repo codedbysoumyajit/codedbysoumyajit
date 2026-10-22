@@ -92,19 +92,18 @@ a secure, self-hosted cloud storage and file sharing workspace.
   <a href="https://github.com/codedbysoumyajit/Phoenix-XShare"><strong>Explore project ↗</strong></a>
 </p>
 
-### 🔑 ZeroK Vault
+### 🤖 Neurova AI
 
-A self-hostable password manager designed around client-side encryption and privacy.
+a privacy-first, premium chat application designed to bring the power of multiple state-of-the-art LLMs right to your pocket.
 
-- Argon2id-based key derivation
-- AES-256-GCM client-side encryption
-- Go backend with MongoDB integration
+- Multi-Model Support
+- Local, Isolated Multi-User Profiles
+- Cross-Platform & Highly Optimized
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Privacy-7C3AED?style=flat-square&logo=letsencrypt&logoColor=white" alt="Privacy"/>
-  <a href="https://github.com/codedbysoumyajit/zerok-vault"><strong>Explore project ↗</strong></a>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <a href="https://github.com/codedbysoumyajit/neurova-ai"><strong>Explore project ↗</strong></a>
 </p>
 
 ### 🖥️ KernelView
