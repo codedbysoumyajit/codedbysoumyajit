@@ -73,7 +73,7 @@ I build web applications, backend systems, and developer tools. Beyond writing c
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=codedbysoumyajit&repo=Phoenix-XShare&theme=tokyonight&hide_border=true" width="49%" alt="Phoenix XShare repository card"/>
   </a>
   <a href="https://github.com/codedbysoumyajit/zerok-vault">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=codedbysoumyajit&repo=zerok-vault&theme=tokyonight&hide_border=true" width="49%" alt="ZeroK Vault repository card"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=codedbysoumyajit&repo=KernelView-Go&theme=tokyonight&hide_border=true" width="49%" alt="ZeroK Vault repository card"/>
   </a>
 </p>
 
