@@ -1,124 +1,189 @@
-# 👨‍💻 Soumyajit Das
+<!--
+  Soumyajit Das | codedbysoumyajit
+  Visual theme: Midnight • Indigo • Electric Blue • Cyan
+-->
 
-### Aspiring Data Scientist | DevOps Engineer | Backend Developer
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=codedbysoumyajit\&color=blue\&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09090B,25:172554,60:4338CA,100:06B6D4&text=Soumyajit%20Das&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%20%E2%80%A2%20%20Open%20Source%20Enthusiast&descSize=16&descColor=DBEAFE&descAlignY=57&animation=fadeIn&section=header" width="100%" alt="Soumyajit Das — Full Stack Developer"/>
 
----
+<br/>
 
-## 🧠 About Me
+<a href="https://github.com/codedbysoumyajit">
+  <img src="https://img.shields.io/badge/GitHub-codedbysoumyajit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/codedbysoumyajit">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:codedbysoumyajit@proton.me">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+</a>
 
-💡 Building **scalable systems**, **data-driven applications**, and **automation pipelines**
+<br/><br/>
 
-* 🔭 Working on: Scalable web apps & backend systems
-* 🌱 Learning: Machine Learning, Cloud (AWS/GCP), CI/CD
-* 🤝 Open to: Open Source, Internships, Collaborations
-* 💬 Ask me about: Python, Go, JavaScript, Linux
-* ⚡ Focus: *Automation • Optimization • Scalability*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=Building+things+for+the+web+%F0%9F%8C%90;Crafting+backends+that+solve+real+problems;Exploring+Linux%2C+Cloud+%26+Open+Source;Turning+ideas+into+working+software+%E2%9C%A8" alt="Animated developer introduction"/>
 
----
+<br/>
 
-## 🏆 Certifications & Badges
+*Curious by nature. Developer by choice. Linux by preference.*
 
-[![Credly](https://img.shields.io/badge/Credly-View%20Profile-orange?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/codedbysoumyajit)
-
-[![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-green?style=flat\&logo=ibm\&logoColor=white)](https://www.credly.com/badges/17f94fe9-0245-46b3-bc20-faaea8aa1bbe/public_url)
-[![Data Analysis Using Python](https://img.shields.io/badge/IBM-Data%20Analysis%20With%20Python-red?style=flat\&logo=ibm\&logoColor=white)](https://www.credly.com/badges/d7e47c75-2435-421c-8b14-aa369493fba2/public_url)
-[![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=flat\&logo=cisco\&logoColor=white)](https://www.credly.com/badges/fa1bb045-90ba-4fcb-adf4-16140ed7cc8d/public_url)
-[![Introduction to Linux](https://img.shields.io/badge/Linux%20Foundation-Introduction%20to%20Linux-black?style=flat\&logo=linuxfoundation\&logoColor=white)](https://www.credly.com/badges/2e2fa9b9-4dd0-4aab-9263-7ed362f2bd19/public_url)
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat\&logo=gnu-bash\&logoColor=white)
-
-### ⚙️ Backend & Web
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat\&logo=next.js\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat\&logo=github-actions\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
-
-### 📊 Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat\&logo=plotly\&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat\&logo=mongodb\&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🌌 About Me
+
+Hey, I'm **Soumyajit Das** — a developer who enjoys turning ideas into software and learning how things work under the hood.
+
+I build web applications, backend systems, and developer tools. Beyond writing code, I'm fascinated by Linux, open-source software, networking, and the infrastructure that powers modern applications.
+
+- 💻 Building web applications, APIs, and practical software tools
+- 🐹 Exploring Go and performance-conscious development
+- 🐧 Linux enthusiast and open-source advocate
+- ☁️ Learning cloud computing, networking, and DevOps
+- 🔐 Interested in cybersecurity and privacy-focused engineering
+- 🌱 Always experimenting, learning, and building something new
+
+<p align="center">
+  <em>Build something useful. Understand it deeply. Make it better.</em>
+</p>
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,bash&theme=dark" alt="Programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,express&theme=dark" alt="Frontend and backend technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,linux,docker,aws,cloudflare,nginx&theme=dark" alt="Databases and infrastructure"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" alt="Developer tools"/>
+</p>
+
+## 🚀 Selected Projects
+
+<p align="center">
+  <a href="https://github.com/codedbysoumyajit/Phoenix-XShare">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=codedbysoumyajit&repo=Phoenix-XShare&theme=tokyonight&hide_border=true" width="49%" alt="Phoenix XShare repository card"/>
+  </a>
+  <a href="https://github.com/codedbysoumyajit/zerok-vault">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=codedbysoumyajit&repo=zerok-vault&theme=tokyonight&hide_border=true" width="49%" alt="ZeroK Vault repository card"/>
+  </a>
+</p>
 
 ### 🔐 Phoenix XShare
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?style=flat\&logo=github)](https://github.com/codedbysoumyajit/Phoenix-XShare)
-![Tech](https://img.shields.io/badge/Tech-Node.js%20%7C%20EJS%20%7C%20MongoDB-blue)
+A self-hostable file-sharing platform built around privacy, control, and a straightforward user experience.
 
-Secure, open-source, and **self-hostable file-sharing platform** built for privacy and performance.
-✔️ Private upload server with enhanced security
-✔️ Modern UI with optimized file handling
-✔️ Designed for scalable and controlled deployments
+- Private file uploads with optional encryption
+- MongoDB-backed application functionality
+- Modern interface with PWA support
 
----
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <a href="https://github.com/codedbysoumyajit/Phoenix-XShare"><strong>Explore project ↗</strong></a>
+</p>
 
 ### 🔑 ZeroK Vault
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?style=flat\&logo=github)](https://github.com/codedbysoumyajit/zerok-vault)
-![Tech](https://img.shields.io/badge/Tech-Go%20%7C%20MongoDB%20%7C%20Vanilla%20JS-blue)
+A self-hostable password manager designed around client-side encryption and privacy.
 
-A **zero-knowledge, self-hostable password manager** focused on complete user privacy.
-✔️ Server acts as blind storage (no access to secrets)
-✔️ End-to-end encryption ensures data ownership
-✔️ Lightweight and privacy-first architecture
+- Argon2id-based key derivation
+- AES-256-GCM client-side encryption
+- Go backend with MongoDB integration
 
----
-
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.shion.dev/api?username=codedbysoumyajit\&theme=tokyonight\&show_icons=true)
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codedbysoumyajit&layout=compact&theme=tokyonight" width="350" />
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codedbysoumyajit&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Privacy-7C3AED?style=flat-square&logo=letsencrypt&logoColor=white" alt="Privacy"/>
+  <a href="https://github.com/codedbysoumyajit/zerok-vault"><strong>Explore project ↗</strong></a>
 </p>
 
----
+### 🖥️ KernelView
 
-## 🌐 Connect With Me
+A Go-based system information and monitoring utility inspired by the Linux command-line ecosystem.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/codedbysoumyajit)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:codedbysoumyajit@proton.me)
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge\&logo=x)](https://x.com/CoderSoumyajit)
+- System information and diagnostics
+- Process and network inspection features
+- Terminal-focused workflows
 
----
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="https://github.com/codedbysoumyajit?tab=repositories"><strong>Explore repositories ↗</strong></a>
+</p>
 
-## 🎯 Career Focus
+## 🏆 Certifications
 
-* Data Science & Machine Learning
-* Backend Engineering
-* DevOps & Cloud Infrastructure
+<p align="center">
+  <a href="https://www.credly.com/badges/17f94fe9-0245-46b3-bc20-faaea8aa1bbe/public_url">
+    <img src="https://img.shields.io/badge/IBM-Python_for_Data_Science-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python for Data Science"/>
+  </a>
+  <a href="https://www.credly.com/badges/d7e47c75-2435-421c-8b14-aa369493fba2/public_url">
+    <img src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analysis with Python"/>
+  </a>
+  <br/>
+  <a href="https://www.credly.com/badges/fa1bb045-90ba-4fcb-adf4-16140ed7cc8d/public_url">
+    <img src="https://img.shields.io/badge/Cisco-Networking_Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics"/>
+  </a>
+  <a href="https://www.credly.com/badges/2e2fa9b9-4dd0-4aab-9263-7ed362f2bd19/public_url">
+    <img src="https://img.shields.io/badge/Linux_Foundation-Introduction_to_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation Introduction to Linux"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://www.credly.com/users/codedbysoumyajit">View all credentials on Credly ↗</a>
+</p>
 
-## 🧩 Philosophy
+## 📊 GitHub Analytics
 
-> “Great systems aren’t just built — they’re optimized, automated, and scaled.”
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=codedbysoumyajit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics"/>
+  <img src="https://streak-stats.demolab.com/?user=codedbysoumyajit&theme=tokyonight&hide_border=true" width="49%" alt="GitHub contribution streak"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codedbysoumyajit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" alt="Most used programming languages"/>
+</p>
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/codedbysoumyajit">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/codedbysoumyajit">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/code_soumyajit">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:codedbysoumyajit@proton.me">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  Have an interesting idea, want to collaborate, or need a developer for a project?
+  <br/>
+  <a href="mailto:codedbysoumyajit@proton.me"><strong>Let's build something cool together ↗</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,50:4338CA,100:09090B&section=footer" width="100%" alt="Decorative gradient footer"/>
+</p>
+
+<p align="center">
+  <sub>Made with curiosity, a terminal, and a little too much coffee. ☕</sub>
+</p>
+
+<!-- Keep building. Keep exploring. -->
+
