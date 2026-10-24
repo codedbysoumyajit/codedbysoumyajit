@@ -59,7 +59,7 @@ I build web applications, backend systems, and developer tools. Beyond writing c
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,linux,docker,aws,cloudflare,nginx&theme=dark" alt="Databases and infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,docker,aws,cloudflare,nginx&theme=dark" alt="Databases and infrastructure"/>
 </p>
 
 <p align="center">
